@@ -2,8 +2,8 @@
 
 const Card = () => {
   return (
-    <div>Card</div>
+    <div></div>
   )
 }
 
-export default Card
+export default Card;
